@@ -1,0 +1,8 @@
+nav#sidebar .chapter .section {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+nav#sidebar .chapter > li > ol {
+    display: block !important;
+}
