@@ -1,6 +1,6 @@
 [book]
 title = "DRG Blueprint Tutorial"
-authors = [HatsuEcho]
+authors = ["HatsuEcho"]
 language = "zh-CN"
 
 [output.html]
