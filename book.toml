@@ -1,9 +1,7 @@
 [book]
 title = "DRG Blueprint Tutorial"
-authors = []
-language = "en"
-src = "src"
+authors = [HatsuEcho]
+language = "zh-CN"
 
 [output.html]
 mathjax-support = true
-#additional-css = ["src/custom.css"]
