@@ -122,8 +122,3 @@ xxx......
 名字这里我取PlayerTP，可以是任意，只要你能记住。
 
 ![1-3](./DRG Blueprint Tutorial.assets/1-3.png)
-
-然后双击该蓝图，这就是称之为编辑器的界面。
-
-![1-4](/1/1-4.png)
-
